@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijayharre2010" alt="vijayharre2010" /></a> </p>
 
-- 🔭 I’m currently working on [wardrobeai](https://github.com/vijayharre2010/wardrobeai)
+- 🔭 I’m currently working on Musberry
 
 - 🌱 I’m currently learning **Tauri Framework**
 
-- 👯 I’m looking to collaborate on [wardrobeai](https://github.com/vijayharre2010/wardrobeai)
+- 👯 I’m looking to collaborate on Musberry
 
-- 🤝 I’m looking for help with [wardrobeai](https://github.com/vijayharre2010/wardrobeai)
+- 🤝 I’m looking for help with Musberry
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijayharre2010](https://github.com/vijayharre2010)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vijayharre10@gmail.com**
 
-- ⚡ Fun fact **I love lemon/lime marmalade**
+- ⚡ Fun fact **I want a Koenigsegg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
